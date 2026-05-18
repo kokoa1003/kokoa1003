@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-##　楽しそうで可愛いお人間さんだよ！
+//## 楽しそうで可愛いお人間さんだよ！
