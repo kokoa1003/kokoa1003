@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-// ## 楽しそうで可愛いお人間さんだよ！
+楽しそうで可愛いお人間さんだよ！
